@@ -8,7 +8,7 @@
 - 🧠 Working on Medical Image Analysis, Model Calibration, and Computer Vision
 - 🌱 Currently exploring Explainable AI and Foundation Models
 - 💡 Passionate about building reliable AI systems for healthcare applications
-- 📄 [Download My Resume](https://drive.google.com/drive/folders/1sweyKmUAOzzYQH9rasml7I4A3MZEsRPA?usp=sharing) 
+- 📄 [Download My Resume](https://drive.google.com/file/d/1svrQuOBnGkI_WGWTUAQbaVnzJkWMWYiW/view?usp=sharing) 
 
 ---
 
