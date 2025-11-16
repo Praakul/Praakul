@@ -2,27 +2,13 @@
 <h1 align="center">Hi, I'm Prajwal Kulkarni.</h1>
 <!-- <h3 align="center"> Machine Learning and Computer Vision Enthusiast </h3> -->
 
-
-## 🚀 About Me
+## About Me
 
 - 🎓 Electronics & Communication Engineering student at KLS Gogte Institute of Technology (GPA: 8.88)
 - 🧠 Working on Medical Image Analysis, Model Calibration, and Computer Vision
 - 🌱 Currently exploring Explainable AI and Foundation Models
 - 💡 Passionate about building reliable AI systems for healthcare applications
 - 📄 [Download My Resume](https://drive.google.com/file/d/1svrQuOBnGkI_WGWTUAQbaVnzJkWMWYiW/view?usp=sharing) 
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/praakul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:prajwalanandk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/praakul" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
@@ -70,11 +56,14 @@ I'm always interested in collaborating on:
 Feel free to reach out for collaborations, discussions, or just to say hi!
 
 <p align="center">
-  <a href="https://linkedin.com/in/praakul">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/praakul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:prajwalanandk@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/praakul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
