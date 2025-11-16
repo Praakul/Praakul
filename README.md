@@ -21,7 +21,7 @@ I'm always interested in collaborating on:
 - 🧠 Model interpretability & reliability
 - 🔬 Research collaborations
 
-Feel free to reach out for collaborations, discussions, or just to say hi!
+Please reach out for any relevent work, collaborations, discussions, or just to say hi!
 
 <p align="center">
   <a href="https://linkedin.com/in/praakul" target="_blank">
