@@ -4,11 +4,11 @@
 
 ## About Me
 
-- 🎓 Final year Electronics & Communication Engineering student at KLS Gogte Institute of Technology.
-- 🧠 Working on Medical Image Analysis, Model Calibration, and Computer Vision
-- 🌱 Currently exploring Explainable AI and Foundation Models
-- 💡 Passionate about building reliable AI systems for healthcare applications
-- 📄 [Download My Resume](https://drive.google.com/file/d/1svrQuOBnGkI_WGWTUAQbaVnzJkWMWYiW/view?usp=sharing) 
+- Final year Electronics & Communication Engineering student at KLS Gogte Institute of Technology.
+- Working on Medical Image Analysis, Model Calibration, and Computer Vision
+- Currently exploring Explainable AI and Foundation Models
+- Passionate about building reliable AI systems for healthcare applications
+- [Download My Resume](https://drive.google.com/file/d/1svrQuOBnGkI_WGWTUAQbaVnzJkWMWYiW/view?usp=sharing) 
 
 ---
 
@@ -16,10 +16,10 @@
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on:
-- 🏥 Medical AI & Healthcare applications
-- 👁️ Computer Vision projects
-- 🧠 Model interpretability & reliability
-- 🔬 Research collaborations
+- Medical AI & Healthcare applications
+- Computer Vision projects
+- Model interpretability & reliability
+- Research collaborations
 
 Please reach out for any relevent work, collaborations, discussions, or just to say hi!
 
