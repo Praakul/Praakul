@@ -4,11 +4,9 @@
 
 ## About Me
 
-- Final year Electronics & Communication Engineering student at KLS Gogte Institute of Technology.
-- Working on Medical Image Analysis, Model Calibration, and Computer Vision
-- Currently exploring Explainable AI and Foundation Models
-- Passionate about building reliable AI systems for healthcare applications
-- [Download My Resume](https://drive.google.com/file/d/1svrQuOBnGkI_WGWTUAQbaVnzJkWMWYiW/view?usp=sharing) 
+- Final year Electronics & Communication Engineering student.
+- Working on Medical Image Analysis, Model Calibration, and Computer Vision and LLM's.
+- Passionate about building reliable AI systems.
 
 ---
 
