@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Currently exploring 3d vision, vision and language models.
+- working on applications of AI in breast cancer diagnosis as a PRS at IRCH AIIMS New Delhi
 - previously, as an intern, worked on AI evaluation systems for surgical skill assessment at AIIMS, New Delhi and Built & deployed multi object tracking system at Tech Fortunes, Bangalore.
 - [Download My Resume](https://drive.google.com/file/d/1-swQKqTRmoC9EyEIHITKI67auzZyj_Z5/view?usp=sharing) 
 - I am seeking intern/full time roles so do reach out for any relevent work, collaborations, discussions.
